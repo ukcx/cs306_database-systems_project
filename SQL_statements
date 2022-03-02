@@ -1,3 +1,4 @@
+
 CREATE TABLE Passengers(
     pid VARCHAR(10),
     full_name VARCHAR(50),
